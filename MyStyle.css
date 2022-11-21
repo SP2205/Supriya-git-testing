@@ -2,4 +2,6 @@
 .MySection
 {
     background-color: bisque;
+    background-clip: inherit;
+
 }
